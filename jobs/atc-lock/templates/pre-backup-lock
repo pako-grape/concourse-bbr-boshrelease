@@ -5,3 +5,4 @@ set -e
 PATH=/var/vcap/bosh/bin:$PATH
 
 monit stop atc
+sleep 2
